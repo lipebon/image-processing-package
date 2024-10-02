@@ -1,5 +1,5 @@
 # package_name
-
+```md
 Description. 
 The package package_name is used to:
 	Processing:
@@ -12,7 +12,7 @@ The package package_name is used to:
 		- Plot image
 		- Plot result
 		- Plot histogram
-  
+```
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
