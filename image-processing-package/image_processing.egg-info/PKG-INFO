@@ -2,9 +2,9 @@ Metadata-Version: 2.1
 Name: image_processing
 Version: 0.0.1
 Summary: Image Processing Package using Skimage
-Home-page: https://github.com/lucasalvesmdv/image-processing-package
-Author: Lucas
-Requires-Python: >=3.5
+Home-page: https://github.com/lipebon/image-processing-package
+Author: Felipe
+Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 Requires-Dist: matplotlib
 Requires-Dist: numpy
